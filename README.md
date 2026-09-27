@@ -40,7 +40,7 @@ Lead Capture → Validation → Duplicate Detection → Assignment → Qualifica
 
 ---
 
-### 15 — Customer 360 Administration Using Data Cloud-Ready Object Structures and Deduplication Rules
+### 02 — Customer 360 Administration Using Data Cloud-Ready Object Structures and Deduplication Rules
 
 **Customer 360 + Data/Data Cloud Readiness**
 
@@ -62,7 +62,7 @@ A Customer 360-focused Salesforce administration implementation designed around 
 
 The implementation focuses on establishing a clean and structured customer foundation that can support future Customer 360 and Data Cloud use cases.
 
-[View Case Study 15](./15-Customer-360-Administration/)
+[View Case Study 02](./02-Customer-360-Administration/)
 
 ---
 
@@ -87,7 +87,7 @@ A Service Cloud administration implementation focused on service operations, cas
 
 The implementation establishes a governed service environment that can support future AI-assisted service workflows.
 
-[View Case Study 20](./20-Agentforce-Ready-Service-Workspace/)
+[View Case Study 03](./03-Agentforce-Ready-Service-Workspace/)
 
 ---
 
