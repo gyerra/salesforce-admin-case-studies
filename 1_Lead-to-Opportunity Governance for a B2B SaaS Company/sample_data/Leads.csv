@@ -1,0 +1,11 @@
+First Name,Last Name,Company,Product Interest,Company Size,Estimated Budget,Lead Score,Follow-up Date,Lead Priority,SLA Due Date,Status,Email,Phone,Lead Source
+Ravi,Kumar,ABC Technologies,CRM,Enterprise,600000,72,2026-09-28,Hot,2026-09-28T10:00:00,New,ravi.kumar@example.com,9876500001,Web
+Anita,Sharma,Bright Analytics Pvt Ltd,Analytics,Medium,350000,68,2026-09-29,Warm,2026-09-29T10:00:00,Contacted,anita.sharma@example.com,9876500002,Web
+Mohammed,Ali,Prime Automation Ltd,Automation,Enterprise,800000,88,2026-09-28,Hot,2026-09-28T11:00:00,Qualified,mohammed.ali@example.com,9876500003,Referral
+Sneha,Rao,CloudServe India,Support Tool,Medium,250000,61,2026-09-30,Warm,2026-09-30T10:00:00,New,sneha.rao@example.com,9876500004,Phone Inquiry
+Arjun,Mehta,Nexa Systems,CRM,Small,180000,55,2026-10-01,Warm,2026-10-01T10:00:00,New,arjun.mehta@example.com,9876500005,Web
+Priya,Nair,DataVista Solutions,Analytics,Enterprise,720000,84,2026-09-29,Hot,2026-09-29T11:00:00,Contacted,priya.nair@example.com,9876500006,Referral
+Karan,Singh,AutoCore Pvt Ltd,Automation,Medium,420000,70,2026-10-02,Warm,2026-10-02T10:00:00,Contacted,karan.singh@example.com,9876500007,Web
+Divya,Reddy,TechBridge Services,Support Tool,Small,150000,48,2026-10-03,Cold,2026-10-03T10:00:00,New,divya.reddy@example.com,9876500008,Partner
+Rahul,Verma,FinEdge Technologies,CRM,Enterprise,950000,91,2026-09-30,Hot,2026-09-30T12:00:00,Qualified,rahul.verma@example.com,9876500009,Referral
+Neha,Kapoor,InsightWorks Pvt Ltd,Analytics,Small,220000,58,2026-10-01,Warm,2026-10-01T12:00:00,New,neha.kapoor@example.com,9876500010,Web
